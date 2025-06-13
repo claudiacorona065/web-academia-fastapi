@@ -4,6 +4,8 @@
 
 Este proyecto es una **plataforma web completa** desarrollada como ejercicio final de la asignatura **Ingeniería Web II**. Simula el funcionamiento de una academia online de programación, permitiendo gestionar cursos, usuarios y solicitudes mediante una API-REST en **FastAPI** y una interfaz web responsive construida con HTML/CSS/JS.
 
+El desarrollo completo explicado esta en el pdf
+
 ---
 
 ##  Objetivo
